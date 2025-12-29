@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Order Processing & Inventory Consistency System
+
+server:
+  port: 8090
