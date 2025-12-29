@@ -3,6 +3,8 @@ HELP.md
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
+!**/src/main/**/.gradle/
+!**/src/main/**/gradle/
 !**/src/test/**/build/
 
 ### STS ###
